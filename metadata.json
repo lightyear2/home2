@@ -1,0 +1,6 @@
+{
+  "name": "SG FlatPulse - Singapore HDB Resale Market Intelligence",
+  "description": "Real-time exploration, price trends, valuation estimator, and transaction analytics for Singapore HDB resale flats powered by Data.gov.sg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
